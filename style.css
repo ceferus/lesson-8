@@ -1,0 +1,30 @@
+.bg{
+    background-color: black;
+}
+.div{
+    color: white;
+    text-align: center;
+}
+.button{
+    background-color: greenyellow;
+    margin-left: 50px;
+}
+.h1{
+    font-size: 250%;
+    color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.p{
+    color: white;
+    margin-left: 50px;
+    font-size: 150%;
+}
+.p1{
+    color: white;
+    margin-left: 50px;
+}
+.img{
+    margin-left: 700px; 
+    
+}
